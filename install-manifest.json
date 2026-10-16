@@ -1741,6 +1741,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "penpen--busangukbap": {
+      "name": "PEN²",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "35d0ad2b08082a6150fa2244bb83ef878b696b1f1cc8dede4835423842c22bd5",
+      "petJsonBytes": 258,
+      "spritesheetSha256": "2ab38f9681d51910f725966232aff65196f9ca367c37165688be18675ef4336a",
+      "spritesheetBytes": 1391484,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "phoebe--chenxin-dlut": {
       "name": "Phoebe",
       "localizedNames": { "en": "Phoebe", "zh": "菲比" },
